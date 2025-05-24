@@ -1,4 +1,4 @@
-/*
+package Exercicio1;/*
 Crie uma conjunto contendo as cores do arco-íris e:
 a) Exiba todas as cores o arco-íris uma abaixo da outra;
 b) A quantidade de cores que o arco-íris tem;
